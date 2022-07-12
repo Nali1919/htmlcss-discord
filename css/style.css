@@ -16,14 +16,17 @@
     flex-direction: column;
 }
 
+.header {
+    background-image: url(/img/jumbo.png);
+}
+
 .header1 {
     flex-basis: 160px;
-    background-color: blue
+
 }
 
 .header2 {
     flex-basis: 200px;
-    background-color: coral;
     justify-content: center;
     align-items: center;
 
