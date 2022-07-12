@@ -9,11 +9,22 @@ body {
     background-color: #fff;
 }
 
+.gruppostudio,
+.fandom,
+.Voice {
+    width: 250px;
+}
+
+
+
+
 
 .container {
     margin: 0 auto;
     max-width: 1200px;
 }
+
+
 
 .logo-discord {
     margin-top: 10px;
@@ -106,9 +117,6 @@ h2 {
     flex-grow: 1;
 }
 
-.wrap {
-    flex-wrap: wrap;
-}
 
 
 header {
