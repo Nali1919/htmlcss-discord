@@ -9,6 +9,8 @@ body {
     background-color: #fff;
 }
 
+
+
 .gruppostudio,
 .fandom,
 .Voice {
@@ -182,14 +184,35 @@ section.even {
 
 #social-link {
     flex-basis: 350px;
-    flex-shrink: 0;
 }
 
+h3 {
+    color: #7289da;
+}
+
+
 footer .column {
-    flex-basis: calc(25% - 20px);
-    padding: 0 10px;
+    margin-left: 60px;
+    margin-bottom: 20px
 }
 
 footer hr {
     margin: 25px 0px
+}
+
+
+.bottonefinale {
+    margin-top: 50px;
+    border-radius: 20px;
+    width: 90px;
+    text-align: center;
+    padding: 10px 10px;
+    border: 0ch;
+    background-color: #7289da;
+    color: white;
+}
+
+.logofinale {
+    padding-top: 50px;
+
 }
