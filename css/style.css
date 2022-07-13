@@ -73,10 +73,11 @@ nav {
 
 h1 {
     margin-bottom: 20px;
+    font-size: 40px;
 }
 
 h2 {
-    margin-bottom: 20px;
+    margin-bottom: 40px;
     margin-top: 40px;
 
 }
@@ -161,9 +162,10 @@ section.even {
 }
 
 .jumbo-tron-container {
-    max-width: 800px;
+    max-width: 820px;
     margin: 0px auto;
-    padding: 165px 0px;
+    padding: 125px 0px;
+
 }
 
 #call-to-action,
@@ -185,9 +187,7 @@ section.even {
 
 
 
-#social-link {
-    flex-basis: 350px;
-}
+#social-link {}
 
 h3 {
     color: #7289da;
@@ -196,7 +196,10 @@ h3 {
 
 footer .column {
     margin-left: 60px;
-    margin-bottom: 20px
+    margin-bottom: 20px;
+    row-gap: 15px;
+    ;
+
 }
 
 footer hr {
