@@ -27,6 +27,9 @@ body {
 }
 
 
+.navigazione {
+    column-gap: 15px;
+}
 
 .logo-discord {
     margin-top: 10px;
